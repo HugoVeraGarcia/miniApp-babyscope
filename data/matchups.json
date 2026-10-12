@@ -1,0 +1,68 @@
+{
+ "matchups": [
+  {
+   "a": "graco-modes-pramette",
+   "b": "graco-modes-element",
+   "intro": "Graco's two best-selling Modes travel systems share a frame and a reversible seat. The differences are the newborn mode, the car seat and the trays.",
+   "bottom_line": "Get the Pramette if you want a flat newborn mode without the car seat and a SnugRide 35 that lasts longer. Get the Element for parent and child trays and its higher rating spread.",
+   "choose_a": "You'll walk with a newborn without the car seat, or want the 35 lb car seat.",
+   "choose_b": "You want trays and a self-standing fold, and will use the car seat for newborn walks."
+  },
+  {
+   "a": "doona",
+   "b": "graco-ready2jet",
+   "intro": "The all-in-one car seat stroller versus a light travel stroller that takes a Graco car seat — the two most popular ways to make the car-to-stroller switch easy.",
+   "bottom_line": "The Doona is the most convenient setup for year one and on planes, but it's outgrown at 30 lb. The Ready2Jet plus a Graco SnugRide costs less and keeps working as a travel stroller to 50 lb.",
+   "choose_a": "You want the fastest car-to-stroller switch and fly often in the first year.",
+   "choose_b": "You want a setup that lasts into the toddler years for less money."
+  },
+  {
+   "a": "uppababy-vista-v3",
+   "b": "momcozy-changego",
+   "intro": "Two single-to-double strollers with a flat newborn option and big baskets — one premium, one value.",
+   "bottom_line": "The Vista V3 has the better ride, build and resale value. The ChangeGo includes both a carry-cot and a toddler seat in the box, rides two kids out of the box and can become a wagon.",
+   "choose_a": "You want the benchmark premium stroller and plan to keep it for years.",
+   "choose_b": "You want more included pieces and the wagon option for less."
+  },
+  {
+   "a": "mompush-wiz",
+   "b": "graco-modes-pramette",
+   "intro": "Two newborn-ready strollers with flat pramette modes and reversible seats — one stroller only, one with a car seat included.",
+   "bottom_line": "The Wiz is the better value if you already have a car seat or don't need one on the stroller. The Pramette is the better deal if you need a car seat too.",
+   "choose_a": "You already have an infant car seat or mostly walk from home.",
+   "choose_b": "You want the car seat and base included."
+  },
+  {
+   "a": "gb-pockit-air",
+   "b": "mamazing-ultra-air",
+   "intro": "Two of the lightest strollers on Amazon, both under 12 lb and built for planes.",
+   "bottom_line": "The Pockit Air folds smaller and lighter. The Ultra Air has a one-hand fold, a full canopy and a bigger basket, so it doubles better as an everyday stroller.",
+   "choose_a": "The smallest, lightest fold is all that matters.",
+   "choose_b": "You want a travel stroller you'll also use every day."
+  },
+  {
+   "a": "mompush-lithe-v2",
+   "b": "graco-ready2jet",
+   "intro": "Two travel strollers that both work from birth, in different ways: a near-flat recline versus a Graco car seat.",
+   "bottom_line": "The Lithe V2 lets a newborn lie nearly flat without a car seat and includes a rain cover and tray. The Ready2Jet is lighter and takes any Graco SnugRide.",
+   "choose_a": "You want your baby to nap flat on the go without a car seat.",
+   "choose_b": "You have a Graco SnugRide and want the lightest setup."
+  },
+  {
+   "a": "bob-revolution-flex-3",
+   "b": "summit-x3",
+   "intro": "The two jogging strollers most runners shortlist: BOB's classic and Baby Jogger's hand-brake rival.",
+   "bottom_line": "The BOB has the better-proven ride and a much larger review base. The Summit X3 adds a hand brake, a one-hand fold and a 75 lb limit for less money.",
+   "choose_a": "Ride quality and track record matter most.",
+   "choose_b": "You run hills or want an easier fold."
+  },
+  {
+   "a": "bob-revolution-flex-3",
+   "b": "baby-trend-expedition-jogger",
+   "intro": "Premium jogger versus Amazon's best-selling budget jogger.",
+   "bottom_line": "The BOB's suspension and air tires are worth it for regular runners and trails. For casual runs and walks on paths, the Expedition delivers most of the experience for a fraction of the price.",
+   "choose_a": "You run several times a week or on rough trails.",
+   "choose_b": "You jog casually and want to spend under $200."
+  }
+ ]
+}

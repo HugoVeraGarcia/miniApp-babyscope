@@ -1,0 +1,365 @@
+{
+ "name": "BabyScope",
+ "logo": [
+  "Baby",
+  "Scope"
+ ],
+ "tagline": "Stroller reviews and side-by-side comparisons",
+ "footer_blurb": "Independent stroller and travel system reviews with spec-by-spec comparisons. We check real weights, \"from birth\" claims and which car seats actually click in.",
+ "base_url": "https://strollers.specversus.com",
+ "lang": "en",
+ "year": 2026,
+ "show_prices": false,
+ "affiliate_tag": "babyscope-20",
+ "contact_email": "soporte.microtools.lat@gmail.com",
+ "categories": [
+  {
+   "slug": "travel-systems",
+   "name": "Travel systems",
+   "short": "Travel systems",
+   "h1": "Best travel systems (stroller + car seat)",
+   "icon": "layers",
+   "rule": "tag:travel-system",
+   "guide": "best-travel-system",
+   "intro": "Strollers sold with an infant car seat and base that click together. The easiest way to be ready from day one — check how long you'll use the car seat before its limits."
+  },
+  {
+   "slug": "lightweight",
+   "name": "Lightweight (18 lb or less)",
+   "short": "Under 18 lb",
+   "h1": "Best lightweight strollers (18 lb or less)",
+   "icon": "feather",
+   "rule": "weight_lb<=18",
+   "guide": "best-travel-stroller",
+   "intro": "Strollers you can lift into a trunk or carry up stairs with one arm. Most fold small enough for travel; check the recline if your baby still naps a lot."
+  },
+  {
+   "slug": "carry-on",
+   "name": "Airplane carry-on",
+   "short": "Carry-on",
+   "h1": "Best carry-on travel strollers",
+   "icon": "fold",
+   "rule": "spec:carry_on",
+   "guide": "best-travel-stroller",
+   "intro": "Strollers their makers say fit in most airplane overhead bins. Airline rules vary, so check yours before you fly."
+  },
+  {
+   "slug": "from-birth",
+   "name": "Lie-flat from birth",
+   "short": "Lie-flat",
+   "h1": "Best strollers a newborn can lie flat in",
+   "icon": "kid",
+   "rule": "tag:from-birth",
+   "guide": "best-stroller-for-newborns",
+   "intro": "Strollers with a bassinet, carry-cot or a seat that reclines flat, so a newborn can ride lying down without being clicked into a car seat."
+  },
+  {
+   "slug": "jogging",
+   "name": "Jogging",
+   "short": "Jogging",
+   "h1": "Best jogging strollers",
+   "icon": "bolt",
+   "rule": "spec:jogging",
+   "guide": "best-jogging-stroller",
+   "intro": "Three-wheel strollers rated for running, with a front wheel that locks straight and air or bicycle tires. Wait until your baby is old enough before jogging."
+  },
+  {
+   "slug": "all-terrain",
+   "name": "All-terrain",
+   "short": "All-terrain",
+   "h1": "Best all-terrain strollers",
+   "icon": "mountain",
+   "rule": "tag:all-terrain",
+   "guide": "best-jogging-stroller",
+   "intro": "Big rubber or air-filled wheels and suspension for gravel, grass, trails and broken sidewalks."
+  },
+  {
+   "slug": "double",
+   "name": "Double & single-to-double",
+   "short": "Double",
+   "h1": "Best double and single-to-double strollers",
+   "icon": "user",
+   "rule": "tag:double",
+   "guide": "best-stroller",
+   "intro": "Strollers that carry two children now, or start as a single and add a second seat when the next baby arrives."
+  },
+  {
+   "slug": "under-200",
+   "name": "Under $200",
+   "short": "Under $200",
+   "h1": "Best strollers under $200",
+   "icon": "tag",
+   "rule": "price<=199.99",
+   "guide": "best-budget-stroller",
+   "intro": "Our best-scoring strollers in the under-$200 price range, from newborn-ready full-size models to joggers and travel strollers."
+  }
+ ],
+ "guides": [
+  {
+   "slug": "best-stroller",
+   "title": "Best Stroller (2026)",
+   "h1": "The best strollers on Amazon in 2026",
+   "description": "The best strollers and travel systems on Amazon right now, ranked by our editor score across weight and fold, ride, baby comfort, storage, safety, build and value.",
+   "rank_by": "overall",
+   "filter": null,
+   "limit": 5,
+   "intro": [
+    "The right stroller depends on your life more than on any feature list: a city parent who takes the subway needs something different from a family with a big SUV and gravel paths. But the best strollers share a few things — they work from birth one way or another, fold without a fight, and keep being useful once your baby becomes a toddler.",
+    "We rank every stroller by our editor score, which weighs value most, then weight and fold, ride, baby comfort and safety. Use the fit finder to check any pick against your baby's age, car seat, trunk and budget."
+   ],
+   "criteria": [
+    [
+     "From birth",
+     "Newborns should ride flat: in a bassinet, a seat that reclines flat, or a clicked-in infant car seat. Check which one a stroller uses and whether it's included."
+    ],
+    [
+     "Weight and fold",
+     "Under 18 lb is easy to lift; over 25 lb starts to feel heavy every day. A one-hand fold matters when you're holding a baby."
+    ],
+    [
+     "Wheels",
+     "Small plastic wheels are fine for malls and airports. Rubber or air-filled wheels and suspension make sidewalks, grass and gravel much smoother."
+    ],
+    [
+     "Car seat fit",
+     "Most strollers take their own brand's infant seats directly. Other brands usually need an adapter, sold separately."
+    ],
+    [
+     "Growing room",
+     "Check the child weight limit (40–75 lb here) and seat height; tall toddlers outgrow small seats first."
+    ]
+   ],
+   "faq": [
+    [
+     "What kind of stroller do I need for a newborn?",
+     "One a newborn can lie flat in: a bassinet stroller, a stroller with a flat recline, or a travel system where the infant car seat clicks onto the frame."
+    ],
+    [
+     "Is a travel system worth it?",
+     "For most first-time parents, yes: you get a matched infant car seat, base and stroller, and the baby can move from car to stroller without unbuckling. You'll use the car seat for roughly the first year."
+    ],
+    [
+     "How long will we use a stroller?",
+     "Most families use a stroller until about age 3–4. Many end up with two: a full-size stroller and a light travel stroller."
+    ]
+   ]
+  },
+  {
+   "slug": "best-travel-system",
+   "title": "Best Travel System (2026)",
+   "h1": "The best travel systems (stroller + car seat) in 2026",
+   "description": "The best stroller-and-car-seat travel systems on Amazon, ranked by safety, comfort, value, ride and build.",
+   "rank_by": "system",
+   "filter": "tag:travel-system",
+   "limit": 4,
+   "intro": [
+    "A travel system is a stroller sold with a matching infant car seat and base. The seat stays buckled in your car; when you park, you lift it out and click it onto the stroller without waking the baby.",
+    "We rank them by safety and comfort first, then value, ride and build. Remember that infant car seats are outgrown at 30–35 lb or 30–32 in — the stroller is what you'll keep using afterwards."
+   ],
+   "criteria": [
+    [
+     "Car seat limits",
+     "Most included infant seats fit 4–30 or 4–35 lb and up to 30–32 in. Higher limits buy you a few more months."
+    ],
+    [
+     "Stroller after the car seat",
+     "Check the toddler seat: does it recline, face you, and carry 50 lb? That's the part you'll use for years."
+    ],
+    [
+     "Base included",
+     "All the systems here include a car base. A second base for another car is sold separately."
+    ],
+    [
+     "Weight",
+     "The stroller frame plus a 7–11 lb car seat adds up. Lift the combined weight before you buy if you'll do it daily."
+    ]
+   ],
+   "faq": [
+    [
+     "Can I use any car seat with any stroller?",
+     "No. Strollers accept their own brand's infant seats directly; other brands need an adapter, if one exists. A travel system avoids the guesswork."
+    ],
+    [
+     "How long does a baby use an infant car seat?",
+     "Usually 9–15 months, until they reach the seat's weight or height limit. Then you switch to a convertible car seat, which doesn't click into strollers."
+    ],
+    [
+     "Is the Doona a travel system?",
+     "It's a car seat with built-in wheels — a travel system in one piece. It's outgrown at 30 lb, after which you'll need a regular stroller."
+    ]
+   ]
+  },
+  {
+   "slug": "best-travel-stroller",
+   "title": "Best Travel Stroller (2026)",
+   "h1": "The best lightweight travel strollers in 2026",
+   "description": "The best lightweight and carry-on travel strollers on Amazon, ranked by weight and fold, value, comfort, build and safety.",
+   "rank_by": "travel",
+   "filter": "weight_lb<=18",
+   "limit": 5,
+   "intro": [
+    "A good travel stroller weighs well under 18 lb, folds in seconds and survives airports, trains and cobblestones. The trade-off is always comfort: smaller wheels, smaller baskets and simpler seats.",
+    "We rank travel strollers mostly on weight and fold (from the spec sheet), then value, comfort and build. If your baby is under 6 months, check the recline or car seat compatibility first."
+   ],
+   "criteria": [
+    [
+     "Weight",
+     "10–14 lb is ultralight; 15–18 lb usually means more comfort. Every pound counts when you carry it with a baby and a bag."
+    ],
+    [
+     "Fold size",
+     "\"Carry-on\" claims vary — measure against your airline's overhead bin rules, and use the carry bag."
+    ],
+    [
+     "Newborn use",
+     "Most ultracompacts are for babies who sit up (about 6 months). For younger babies, pick a near-flat recline or one that takes your car seat."
+    ],
+    [
+     "Recline and canopy",
+     "Kids nap on the go when traveling. A deep recline and a full canopy make a big difference on long days."
+    ]
+   ],
+   "faq": [
+    [
+     "Can I take a stroller on a plane?",
+     "Most airlines let you gate-check a stroller for free, and many compact strollers fit in the overhead bin. Check your airline's size rules before you fly."
+    ],
+    [
+     "Do travel strollers work for newborns?",
+     "Only some. Look for a near-flat recline or compatibility with your infant car seat; many travel strollers start at about 6 months."
+    ],
+    [
+     "Is a travel stroller enough as an everyday stroller?",
+     "For city families with small trunks, often yes. Small wheels struggle on rough sidewalks and grass, and baskets are smaller."
+    ]
+   ]
+  },
+  {
+   "slug": "best-jogging-stroller",
+   "title": "Best Jogging Stroller (2026)",
+   "h1": "The best jogging strollers in 2026",
+   "description": "The best jogging strollers on Amazon, ranked by ride quality, safety, build, comfort and value.",
+   "rank_by": "jogging",
+   "filter": "spec:jogging",
+   "limit": 4,
+   "intro": [
+    "A real jogging stroller has three wheels, a front wheel that locks straight, air-filled or bicycle tires and a wrist strap. Suspension and a hand brake make running on hills and trails safer and smoother.",
+    "We rank joggers mostly on ride quality, then safety, build, comfort and value. All of them work from birth only with a compatible infant car seat — and you shouldn't run with a baby until they're old enough."
+   ],
+   "criteria": [
+    [
+     "Locking front wheel",
+     "Locked straight for running, swiveling for everyday walking. All the joggers here have one."
+    ],
+    [
+     "Tires",
+     "Air-filled tires ride smoothest; bicycle-style tires are a good budget middle ground."
+    ],
+    [
+     "Suspension",
+     "Adjustable suspension smooths trails and protects a sleeping baby. Budget joggers often skip it."
+    ],
+    [
+     "Hand brake",
+     "Lets you slow down on descents without stopping. Essential if you run hills."
+    ]
+   ],
+   "faq": [
+    [
+     "When can I start jogging with my baby?",
+     "Most makers and pediatricians say to wait until about 6–8 months, when your baby has good head and neck control. Ask your pediatrician."
+    ],
+    [
+     "Can I use a jogging stroller for everyday walks?",
+     "Yes — unlock the front wheel and it steers like a regular stroller. Joggers are bigger and heavier, so check your trunk."
+    ],
+    [
+     "Do I need a hand brake?",
+     "Only if you run hills. On flat routes the wrist strap and foot brake are enough."
+    ]
+   ]
+  },
+  {
+   "slug": "best-stroller-for-newborns",
+   "title": "Best Stroller for Newborns (2026)",
+   "h1": "The best strollers for newborns in 2026",
+   "description": "The best newborn-ready strollers with a bassinet, carry-cot or lie-flat seat, ranked by comfort, ride, safety and value.",
+   "rank_by": "newborn",
+   "filter": "tag:from-birth",
+   "limit": 4,
+   "intro": [
+    "Newborns can't sit up, so they need to ride lying flat. These strollers do that without a car seat: a bassinet or carry-cot, a seat that converts into a pramette, or a near-flat recline.",
+    "We rank them by baby comfort and ride first, then safety and value. If you'd rather click your car seat in, see our travel system guide."
+   ],
+   "criteria": [
+    [
+     "Bassinet vs. flat seat",
+     "A bassinet or carry-cot is roomier for long walks and naps; a convertible pramette seat saves buying and storing an extra piece."
+    ],
+    [
+     "Canopy",
+     "Newborns shouldn't be in direct sun. Look for a large UPF 50+ canopy with a ventilation panel."
+    ],
+    [
+     "Ride",
+     "Bigger wheels and suspension keep a sleeping baby asleep on rough sidewalks."
+    ],
+    [
+     "Growing room",
+     "Check the toddler seat's weight limit so the stroller lasts beyond the newborn months."
+    ]
+   ],
+   "faq": [
+    [
+     "Can a newborn ride in a regular stroller seat?",
+     "Only if the seat reclines flat (or nearly flat) and the maker says it's suitable from birth. Otherwise use a bassinet or an infant car seat."
+    ],
+    [
+     "How long can a baby use a bassinet?",
+     "Usually until they can push up on hands and knees or reach the bassinet's weight limit — often around 5–6 months."
+    ],
+    [
+     "Is it safe for a baby to sleep in a stroller?",
+     "Naps on walks are fine in a flat bassinet or lie-flat seat while you're with them. For unsupervised or overnight sleep, use a crib or bassinet that meets sleep-product standards."
+    ]
+   ]
+  },
+  {
+   "slug": "best-budget-stroller",
+   "title": "Best Budget Stroller (2026)",
+   "h1": "The best cheap strollers in 2026",
+   "description": "The best affordable strollers and travel systems on Amazon, ranked by value, safety, comfort, build and ride.",
+   "rank_by": "value",
+   "filter": "price<=249.99",
+   "limit": 5,
+   "intro": [
+    "You don't need to spend $500 to get a good stroller. Our budget picks include a newborn-ready full-size stroller, a complete travel system, a jogger and several travel strollers — all highly rated by owners.",
+    "We rank them mostly on value, then safety, comfort, build and ride."
+   ],
+   "criteria": [
+    [
+     "What you give up",
+     "Budget strollers usually have smaller wheels, less suspension, simpler canopies and shorter warranties."
+    ],
+    [
+     "What not to give up",
+     "A 5-point harness, a solid brake, a proper canopy and a seat suited to your baby's age."
+    ],
+    [
+     "Reviews",
+     "Look at the share of one-star reviews and what they say — early breakdowns show up there first."
+    ]
+   ],
+   "faq": [
+    [
+     "Are cheap strollers safe?",
+     "Strollers sold in the U.S. must meet the federal safety standard (ASTM F833). Budget models are safe when used as directed; they're usually less comfortable and durable, not less safe."
+    ],
+    [
+     "What's the best cheap stroller for a newborn?",
+     "One with a flat bassinet mode or a near-flat recline, or a budget travel system that includes an infant car seat."
+    ]
+   ]
+  }
+ ]
+}
