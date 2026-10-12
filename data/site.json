@@ -80,7 +80,7 @@
    "h1": "Best double and single-to-double strollers",
    "icon": "user",
    "rule": "tag:double",
-   "guide": "best-stroller",
+   "guide": "best-double-stroller",
    "intro": "Strollers that carry two children now, or start as a single and add a second seat when the next baby arrives."
   },
   {
@@ -321,6 +321,51 @@
     [
      "Is it safe for a baby to sleep in a stroller?",
      "Naps on walks are fine in a flat bassinet or lie-flat seat while you're with them. For unsupervised or overnight sleep, use a crib or bassinet that meets sleep-product standards."
+    ]
+   ]
+  },
+  {
+   "slug": "best-double-stroller",
+   "title": "Best Double Stroller (2026)",
+   "h1": "The best double strollers in 2026",
+   "description": "The best double, side-by-side, tandem and single-to-double strollers on Amazon, ranked by value, ride, comfort, storage, build and weight.",
+   "rank_by": "double",
+   "filter": "tag:double",
+   "limit": 4,
+   "intro": [
+    "Double strollers come in three shapes: side-by-side (each child gets the same view, but it's wide), tandem (front and back, as narrow as a single) and single-to-double (starts as one seat, adds a second later).",
+    "We rank doubles mostly on value, ride and comfort, then storage, build and weight. If your younger child is a newborn, check car seat compatibility first."
+   ],
+   "criteria": [
+    [
+     "Side-by-side vs tandem",
+     "Side-by-sides are easier to load and fairer for siblings, but check the width: most U.S. doors are 30–32 in. Tandems fit anywhere a single does."
+    ],
+    [
+     "Newborn plus toddler",
+     "Look for a frame that takes an infant car seat or bassinet in one spot while the toddler rides in the other."
+    ],
+    [
+     "Per-seat limits",
+     "Seats range from 40 to 50 lb here. A preschooler can outgrow a 40 lb seat quickly."
+    ],
+    [
+     "Weight",
+     "Doubles weigh 28–37 lb. If you lift it into a trunk daily, every pound matters."
+    ]
+   ],
+   "faq": [
+    [
+     "Side-by-side or tandem double stroller?",
+     "Side-by-side if you have wide sidewalks, a big trunk and kids close in age. Tandem if you shop in narrow aisles or have a baby plus an older child who may walk part of the way."
+    ],
+    [
+     "Will a double stroller fit through a door?",
+     "Most side-by-sides here are 29–30 in wide and fit standard 30–32 in doors; some older doors are tight. Tandems fit anywhere a single stroller does."
+    ],
+    [
+     "Can I jog with a double stroller?",
+     "Only with one rated for jogging, with a locking front wheel and large tires, like the Baby Trend Expedition Double."
     ]
    ]
   },

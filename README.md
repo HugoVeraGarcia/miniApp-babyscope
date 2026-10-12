@@ -24,6 +24,5 @@ netlify.toml         ← Netlify build settings (Netlify runs the build on every
 - Fit finder: use (city/travel/trails/jog), kids (one/two/grow), baby's age, car seat plans, max lifting weight,
   tall parent (adjustable handlebar), price band.
 
-## Batch 2 (pending)
-Graco FastAction LX Jogger (B0861T7Z24), Graco Ready2Grow LX 2.0 (B08K2YFNDW), Baby Jogger City Mini GT2 Double (B07YGVFZFH),
-Jeep Destination Ultralight Double (B07B7QC8DV), Baby Trend Expedition Double Jogger (B07BVMSHTZ) — then add a "best double stroller" guide.
+## Catalog
+25 strollers (batch 1: 20 on Oct 12 2026; batch 2: Graco FastAction LX Jogger, Ready2Grow LX 2.0, City Mini GT2 Double, Jeep Destination Double, Baby Trend Expedition Double). Cribs and bassinets are planned for v2.

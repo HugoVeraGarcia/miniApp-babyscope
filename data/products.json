@@ -2707,6 +2707,687 @@
      }
     ]
    }
+  },
+  {
+   "id": "graco-fastaction-lx-jogger",
+   "asin": "B0861T7Z24",
+   "name": "Graco FastAction LX Jogger Stroller",
+   "short": "Graco FastAction LX Jogger",
+   "brand": "Graco",
+   "model": "FastAction LX Jogger",
+   "variant": null,
+   "type": "Jogging",
+   "affiliate_url": "https://www.amazon.com/dp/B0861T7Z24?tag=babyscope-20",
+   "affiliate_tag": "babyscope-20",
+   "canonical_url": "https://www.amazon.com/dp/B0861T7Z24",
+   "images": [
+    "71VH78-311L",
+    "91+zBhqKPsL",
+    "71DVlOp9shL",
+    "91J1rAJ0P-L",
+    "91B1ixRYRYL",
+    "71EjPSZVSmL",
+    "71htKB-3KmL",
+    "91mZjSTi7LL"
+   ],
+   "tags": [
+    "all-terrain",
+    "jogging"
+   ],
+   "featured": false,
+   "badge": null,
+   "seller": "Amazon.com",
+   "price": 219.99,
+   "list_price": null,
+   "price_date": "2026-10-12",
+   "availability": "In stock · 200+ bought last month",
+   "rating": 4.4,
+   "reviews_count": 530,
+   "rating_breakdown": {
+    "5": 74,
+    "4": 12,
+    "3": 4,
+    "2": 3,
+    "1": 7
+   },
+   "specs": {
+    "weight_lb": 28.2,
+    "folded_size": "23.5 × 35.5 × 17.5 in",
+    "one_hand_fold": true,
+    "self_standing": null,
+    "carry_on": false,
+    "from_birth": "Yes — with a compatible infant car seat (sold separately)",
+    "newborn": "carseat",
+    "max_child_lb": 50,
+    "recline": "Multi-position",
+    "reversible_seat": null,
+    "canopy": "Full coverage, peekaboo, mesh vents",
+    "seats": 1,
+    "wheels": "3, locking front swivel (12 in front)",
+    "suspension": null,
+    "jogging": true,
+    "handbrake": false,
+    "car_seat": "Not included",
+    "cs_included": false,
+    "car_seat_fit": "Graco Click Connect infant seats (no adapter)",
+    "basket_lb": null,
+    "adjustable_handle": true,
+    "cup_holder": true,
+    "harness": "5-point",
+    "jpma": null,
+    "warranty": null
+   },
+   "specs_extra": {
+    "Fold": "FastAction one-second, one-hand fold",
+    "Trays": "Parent tray with cup holders + child tray"
+   },
+   "spec_sources": "Amazon listing (title, bullets and spec table), checked Oct 12 2026.",
+   "data_note": null,
+   "review_note": null,
+   "scores": {
+    "portability": 5,
+    "ride": 6,
+    "comfort": 6,
+    "storage": 6,
+    "safety": 7,
+    "build": 5,
+    "value": 8
+   },
+   "editorial": {
+    "tagline": "A budget jogger with Graco's one-second fold and Click Connect car seat fit.",
+    "summary": "The jogger for Graco car seat owners: clicks onto any Click Connect infant seat, folds with one hand in a second, and costs far less than the premium joggers.",
+    "body": [
+     "The FastAction LX Jogger's selling points are convenience: Graco's one-second, one-hand fold and direct compatibility with Graco Click Connect infant car seats, so it works as a travel system from birth with no adapter. A 3-position handle, parent and child trays and a large basket round it out.",
+     "It's a heavy 28.2 lb, there's no suspension or hand brake, and owners split on running with it — several say it's better for walks on bumpy ground like farmers markets than for real jogging.",
+     "Most owners are happy with the smooth ride for the price; 7% of ratings are one-star, mostly about durability."
+    ],
+    "pros": [
+     "Takes Graco car seats directly",
+     "One-hand, one-second fold",
+     "Adjustable handle",
+     "Parent and child trays"
+    ],
+    "cons": [
+     "28.2 lb",
+     "No suspension or hand brake",
+     "Mixed reports for real running"
+    ],
+    "ideal_for": "Graco car seat families who want a big-wheel stroller for walks and light jogs.",
+    "not_for": "Regular runners — get a BOB or Summit X3.",
+    "verdict": "A convenient walker-jogger, not a runner's stroller.",
+    "review_summary": "4.4★ from 530 ratings (86% four or five stars). Owners like the smooth ride and Graco car seat fit; some find it heavy and awkward to actually jog with.",
+    "reviews": [
+     {
+      "author": "Leigh A Frazier",
+      "stars": 5,
+      "date": "2026-09-25",
+      "title": null,
+      "excerpt": "Used almost daily with a smooth ride; the canopy misses low morning sun.",
+      "paraphrase": true
+     },
+     {
+      "author": "Sunny",
+      "stars": 5,
+      "date": "2025-03-08",
+      "title": null,
+      "excerpt": "Her Graco Click Connect car seat fits perfectly and the canopy covers well.",
+      "paraphrase": true
+     },
+     {
+      "author": "Chawie!",
+      "stars": 4,
+      "date": "2024-10-16",
+      "title": null,
+      "excerpt": "Very smooth on bumpy ground, but heavy and hard to actually jog with.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "graco-ready2grow-lx-2",
+   "asin": "B08K2YFNDW",
+   "name": "Graco Ready2Grow LX 2.0 Double Stroller",
+   "short": "Graco Ready2Grow LX 2.0",
+   "brand": "Graco",
+   "model": "Ready2Grow LX 2.0",
+   "variant": null,
+   "type": "Double",
+   "affiliate_url": "https://www.amazon.com/dp/B08K2YFNDW?tag=babyscope-20",
+   "affiliate_tag": "babyscope-20",
+   "canonical_url": "https://www.amazon.com/dp/B08K2YFNDW",
+   "images": [
+    "81t37GPlaML",
+    "71KI-iQDZkL",
+    "91O2Ri1NzEL",
+    "913Fp0Vh6CL",
+    "9141zynh+0L",
+    "91I5p9UUBIL",
+    "71EhhxWTSWL",
+    "71+d2K2rYbL"
+   ],
+   "tags": [
+    "double"
+   ],
+   "featured": false,
+   "badge": "Best double stroller",
+   "seller": "Amazon.com",
+   "price": 329.99,
+   "list_price": null,
+   "price_date": "2026-10-12",
+   "availability": "In stock · 800+ bought last month",
+   "rating": 4.5,
+   "reviews_count": 5308,
+   "rating_breakdown": {
+    "5": 77,
+    "4": 12,
+    "3": 5,
+    "2": 2,
+    "1": 4
+   },
+   "specs": {
+    "weight_lb": 32,
+    "folded_size": "25.6 × 15.5 × 49 in",
+    "one_hand_fold": null,
+    "self_standing": null,
+    "carry_on": false,
+    "from_birth": "Yes — with Graco infant car seats (one or two)",
+    "newborn": "carseat",
+    "max_child_lb": null,
+    "recline": "Multiple positions (rear seat)",
+    "reversible_seat": null,
+    "canopy": "Individual full-size canopies",
+    "seats": 2,
+    "wheels": "4, dual front (9 in rear)",
+    "suspension": null,
+    "jogging": false,
+    "handbrake": false,
+    "car_seat": "Not included",
+    "cs_included": false,
+    "car_seat_fit": "All Graco infant seats, two at once",
+    "basket_lb": null,
+    "adjustable_handle": true,
+    "cup_holder": true,
+    "harness": "5-point",
+    "jpma": null,
+    "warranty": null
+   },
+   "specs_extra": {
+    "Layout": "Tandem (front and back)",
+    "Configurations": "2 seats, rear bench seat, standing platform",
+    "Twins": "Takes two Graco car seats"
+   },
+   "spec_sources": "Amazon listing (title, bullets and spec table), checked Oct 12 2026.",
+   "data_note": "The listing gives 32 lb for the frame and 32.8 lb as item weight; we use 32 lb.",
+   "review_note": null,
+   "scores": {
+    "portability": 2,
+    "ride": 6,
+    "comfort": 7,
+    "storage": 6,
+    "safety": 8,
+    "build": 7,
+    "value": 9
+   },
+   "editorial": {
+    "tagline": "A tandem double with a bench and standing platform for an older child.",
+    "summary": "Amazon's best-selling double: two seats in tandem, a rear bench and standing platform for a preschooler, and room for two Graco car seats for twins.",
+    "body": [
+     "The Ready2Grow LX 2.0 is a front-and-back tandem double that's only as wide as a single, so it fits through doors and store aisles. The rear seat sits close to you for a baby; an older child can sit on the bench or stand on the platform instead.",
+     "It accepts any Graco infant car seat — two at once for twins — so it works from birth. The price is the catch: at 32 lb it's heavy, though it folds like a single.",
+     "With 5,300+ ratings at 4.5★, parents of a toddler and newborn call it a lifesaver; the weight is the main complaint."
+    ],
+    "pros": [
+     "Single-stroller width",
+     "Bench seat and standing platform",
+     "Two Graco car seats for twins",
+     "5.3K ratings"
+    ],
+    "cons": [
+     "32 lb",
+     "Child limits not published on the listing",
+     "Small wheels for rough ground"
+    ],
+    "ideal_for": "A baby plus a toddler or preschooler, or twins with Graco car seats.",
+    "not_for": "Trails or anyone who lifts the stroller often.",
+    "verdict": "The best-value double stroller for a growing family.",
+    "review_summary": "4.5★ from 5,308 ratings (89% four or five stars). Parents praise the seating options, sturdiness and smooth push; the weight is the common complaint.",
+    "reviews": [
+     {
+      "author": "Veronica",
+      "stars": 5,
+      "date": "2026-08-20",
+      "title": null,
+      "excerpt": "Perfect for her newborn and five-year-old; sturdy, smooth and easy to push.",
+      "paraphrase": true
+     },
+     {
+      "author": "Jessyca",
+      "stars": 5,
+      "date": "2026-09-06",
+      "title": null,
+      "excerpt": "On the heavier side like most doubles, but not overly heavy, and takes a car seat.",
+      "paraphrase": true
+     },
+     {
+      "author": "Nicole",
+      "stars": 5,
+      "date": "2026-09-19",
+      "title": null,
+      "excerpt": "Returned a side-by-side that didn't fit through doors; this one is a lifesaver.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "city-mini-gt2-double",
+   "asin": "B07YGVFZFH",
+   "name": "Baby Jogger City Mini GT2 All-Terrain Double Stroller",
+   "short": "City Mini GT2 Double",
+   "brand": "Baby Jogger",
+   "model": "City Mini GT2 Double",
+   "variant": null,
+   "type": "Double",
+   "affiliate_url": "https://www.amazon.com/dp/B07YGVFZFH?tag=babyscope-20",
+   "affiliate_tag": "babyscope-20",
+   "canonical_url": "https://www.amazon.com/dp/B07YGVFZFH",
+   "images": [
+    "71QMKdktOlL",
+    "71-O+jRn4wL",
+    "71r3FlxTHXL",
+    "815SQrLc0OL",
+    "717fPaDM+sL",
+    "716rkcU+scL",
+    "71rknpp9ECL",
+    "71XtxkyLygL"
+   ],
+   "tags": [
+    "all-terrain",
+    "double"
+   ],
+   "featured": false,
+   "badge": null,
+   "seller": "Amazon.com",
+   "price": 749.99,
+   "list_price": null,
+   "price_date": "2026-10-12",
+   "availability": "In stock · 100+ bought last month",
+   "rating": 4.5,
+   "reviews_count": 465,
+   "rating_breakdown": {
+    "5": 74,
+    "4": 14,
+    "3": 5,
+    "2": 2,
+    "1": 5
+   },
+   "specs": {
+    "weight_lb": 36.5,
+    "folded_size": "31.5 × 10.2 × 40.2 in",
+    "one_hand_fold": true,
+    "self_standing": null,
+    "carry_on": false,
+    "from_birth": "Yes — with a compatible infant car seat (sold separately)",
+    "newborn": "carseat",
+    "max_child_lb": 50,
+    "recline": "Near-flat, both seats",
+    "reversible_seat": null,
+    "canopy": "UV 50+, independent, peekaboo",
+    "seats": 2,
+    "wheels": "4, all-terrain (12 in rear)",
+    "suspension": null,
+    "jogging": false,
+    "handbrake": false,
+    "car_seat": "Not included",
+    "cs_included": false,
+    "car_seat_fit": "Britax, Cybex, Graco, Maxi-Cosi with adapters",
+    "basket_lb": null,
+    "adjustable_handle": true,
+    "cup_holder": null,
+    "harness": "5-point",
+    "jpma": null,
+    "warranty": null
+   },
+   "specs_extra": {
+    "Layout": "Side by side, fits Disney size rules",
+    "Brake": "Hand-operated parking brake"
+   },
+   "spec_sources": "Amazon listing (title, bullets and spec table), checked Oct 12 2026.",
+   "data_note": null,
+   "review_note": "This listing shares reviews with the single City Mini GT2 and GT3.",
+   "scores": {
+    "portability": 1,
+    "ride": 8,
+    "comfort": 8,
+    "storage": 7,
+    "safety": 8,
+    "build": 8,
+    "value": 6
+   },
+   "editorial": {
+    "tagline": "A side-by-side all-terrain double with Baby Jogger's quick fold.",
+    "summary": "Two near-flat seats to 50 lb each, all-terrain wheels and the one-step fold, in a side-by-side frame that still fits standard doors.",
+    "body": [
+     "The City Mini GT2 Double puts two kids side by side, each with a near-flat recline, adjustable calf support, its own UV 50+ canopy and a 50 lb limit. All-terrain wheels and a hand-operated parking brake make it easy to handle for a double.",
+     "Baby Jogger's one-step fold collapses it surprisingly flat (10.2 in deep). Infant seats from Britax, Cybex, Graco and Maxi-Cosi fit with adapters. At 36.5 lb it's the heaviest stroller we cover.",
+     "Families with two or three young kids say it's the only stroller they need after the infant stage. Reviews on this listing are shared with the single City Mini models."
+    ],
+    "pros": [
+     "Side-by-side seats to 50 lb",
+     "Near-flat recline both seats",
+     "Flat one-step fold",
+     "All-terrain wheels"
+    ],
+    "cons": [
+     "Heaviest here (36.5 lb)",
+     "$550+ price band",
+     "Reviews shared with single models"
+    ],
+    "ideal_for": "Two kids close in age who both still nap on the go.",
+    "not_for": "Narrow apartments or small trunks.",
+    "verdict": "The best premium side-by-side double.",
+    "review_summary": "4.5★ from 465 ratings (88% four or five stars). Families praise the fold, smooth ride and lasting value; some reviews describe the single City Mini.",
+    "reviews": [
+     {
+      "author": "Morgan",
+      "stars": 5,
+      "date": "2025-08-19",
+      "title": null,
+      "excerpt": "After trying every stroller and wagon, the only one they need with multiples.",
+      "paraphrase": true
+     },
+     {
+      "author": "Shantel",
+      "stars": 5,
+      "date": "2023-11-17",
+      "title": null,
+      "excerpt": "Hesitant about a side-by-side with three kids, but it works from newborn to five.",
+      "paraphrase": true
+     },
+     {
+      "author": "TB",
+      "stars": 5,
+      "date": "2026-09-18",
+      "title": null,
+      "excerpt": "A lifesaver with two kids, and ready for Disney.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "jeep-destination-double",
+   "asin": "B07B7QC8DV",
+   "name": "Jeep Destination Ultralight Side x Side Double Stroller",
+   "short": "Jeep Destination Double",
+   "brand": "Jeep (Delta Children)",
+   "model": "Destination Ultralight",
+   "variant": null,
+   "type": "Double",
+   "affiliate_url": "https://www.amazon.com/dp/B07B7QC8DV?tag=babyscope-20",
+   "affiliate_tag": "babyscope-20",
+   "canonical_url": "https://www.amazon.com/dp/B07B7QC8DV",
+   "images": [
+    "71FDGdGC5LL",
+    "91oRGMO6KmL",
+    "717T-MY0BxL",
+    "71+mtHBwhAL",
+    "71jiwmLvO-L",
+    "71Il1wStibL",
+    "71sW4EL3oAL",
+    "A1sli8I8EYL"
+   ],
+   "tags": [
+    "double"
+   ],
+   "featured": false,
+   "badge": null,
+   "seller": "Amazon.com",
+   "price": 289.99,
+   "list_price": null,
+   "price_date": "2026-10-12",
+   "availability": "In stock · 1K+ bought last month",
+   "rating": 4.6,
+   "reviews_count": 2080,
+   "rating_breakdown": {
+    "5": 81,
+    "4": 10,
+    "3": 3,
+    "2": 2,
+    "1": 4
+   },
+   "specs": {
+    "weight_lb": 28.7,
+    "folded_size": "29.5 × 30 × 13.4 in",
+    "one_hand_fold": null,
+    "self_standing": true,
+    "carry_on": false,
+    "from_birth": "Not stated — we'd use it from about 6 months",
+    "newborn": null,
+    "max_child_lb": 40,
+    "recline": "Multi-position, independent",
+    "reversible_seat": null,
+    "canopy": "SPF 50 pop-out visors, peekaboo",
+    "seats": 2,
+    "wheels": "4, 7 in locking front swivel + 10 in rear",
+    "suspension": "Rear",
+    "jogging": false,
+    "handbrake": false,
+    "car_seat": "Not included",
+    "cs_included": false,
+    "car_seat_fit": null,
+    "basket_lb": null,
+    "adjustable_handle": null,
+    "cup_holder": null,
+    "harness": "5-point",
+    "jpma": true,
+    "warranty": null
+   },
+   "specs_extra": {
+    "Layout": "Side by side, fits 30 in doorways",
+    "Assembly": "None required"
+   },
+   "spec_sources": "Amazon listing (title, bullets and spec table), checked Oct 12 2026. Minimum age isn't stated.",
+   "data_note": null,
+   "review_note": null,
+   "scores": {
+    "portability": 3,
+    "ride": 6,
+    "comfort": 6,
+    "storage": 5,
+    "safety": 7,
+    "build": 6,
+    "value": 9
+   },
+   "editorial": {
+    "tagline": "An affordable side-by-side double that weighs 28.7 lb.",
+    "summary": "A light-for-a-double aluminum side-by-side with independent reclining seats, locking front wheels and rear suspension, at a fraction of premium prices.",
+    "body": [
+     "The Destination Ultralight is a side-by-side double on an aluminum frame that weighs 28.7 lb — light for two seats. Each seat reclines independently with its own pop-out sun visor and adjustable footrest, the front wheels lock for bumpy ground and the rear wheels have suspension.",
+     "It fits through standard 30 in doorways, has a standing fold with a carry strap and is JPMA certified. Each seat takes up to 40 lb, lower than premium doubles, and there's no car seat compatibility, so it's for toddlers and older babies.",
+     "Families like it for Disney trips and twins; owners say it handles flat trails and turns easily one-handed."
+    ],
+    "pros": [
+     "Light for a double (28.7 lb)",
+     "Independent recline",
+     "JPMA certified",
+     "Great price"
+    ],
+    "cons": [
+     "40 lb per seat",
+     "No car seat option",
+     "Tight in some doorways"
+    ],
+    "ideal_for": "Two toddlers, twins past the infant stage and theme-park trips.",
+    "not_for": "Newborns or older kids over 40 lb.",
+    "verdict": "The best budget side-by-side double.",
+    "review_summary": "4.6★ from 2,080 ratings (91% four or five stars). Parents praise the value, maneuverability and canopies; some doorways are a tight fit.",
+    "reviews": [
+     {
+      "author": "Alison",
+      "stars": 5,
+      "date": "2026-03-28",
+      "title": null,
+      "excerpt": "Great quality for the price when $800 doubles weren't in the budget.",
+      "paraphrase": true
+     },
+     {
+      "author": "Rachel G.",
+      "stars": 5,
+      "date": "2026-09-07",
+      "title": null,
+      "excerpt": "Researched for a Disney trip with a 22-month-old and a 3-year-old and loved it.",
+      "paraphrase": true
+     },
+     {
+      "author": "LolaHam",
+      "stars": 4,
+      "date": "2026-08-12",
+      "title": null,
+      "excerpt": "Smooth one-handed steering; fits every door so far, some a little tight.",
+      "paraphrase": true
+     }
+    ]
+   }
+  },
+  {
+   "id": "baby-trend-expedition-double",
+   "asin": "B07BVMSHTZ",
+   "name": "Baby Trend Expedition Double Jogger Stroller",
+   "short": "Baby Trend Expedition Double",
+   "brand": "Baby Trend",
+   "model": "Expedition Double Jogger",
+   "variant": null,
+   "type": "Double",
+   "affiliate_url": "https://www.amazon.com/dp/B07BVMSHTZ?tag=babyscope-20",
+   "affiliate_tag": "babyscope-20",
+   "canonical_url": "https://www.amazon.com/dp/B07BVMSHTZ",
+   "images": [
+    "71+kjzaK+-L",
+    "71R9aLqrcsL",
+    "71daOX+fGuL",
+    "71IAsbLmPkL",
+    "71IwZKuMryL",
+    "713XeSUFIFL",
+    "71rm9kep8zL",
+    "71vqeuAGd2L"
+   ],
+   "tags": [
+    "all-terrain",
+    "double",
+    "jogging"
+   ],
+   "featured": false,
+   "badge": "Best budget double",
+   "seller": "Amazon.com",
+   "price": 179.99,
+   "list_price": 224.99,
+   "price_date": "2026-10-12",
+   "availability": "In stock · 1K+ bought last month",
+   "rating": 4.5,
+   "reviews_count": 6553,
+   "rating_breakdown": {
+    "5": 77,
+    "4": 12,
+    "3": 4,
+    "2": 2,
+    "1": 5
+   },
+   "specs": {
+    "weight_lb": 32.2,
+    "folded_size": "34 × 32.3 × 16.8 in",
+    "one_hand_fold": null,
+    "self_standing": null,
+    "carry_on": false,
+    "from_birth": "No — about 6 months+",
+    "newborn": null,
+    "max_child_lb": 50,
+    "recline": "Multi-position, both seats",
+    "reversible_seat": null,
+    "canopy": "Ratcheting shade, peekaboo window",
+    "seats": 2,
+    "wheels": "3, bicycle tires (16 in rear, 12 in front), lockable front swivel",
+    "suspension": null,
+    "jogging": true,
+    "handbrake": null,
+    "car_seat": "Not included",
+    "cs_included": false,
+    "car_seat_fit": null,
+    "basket_lb": null,
+    "adjustable_handle": false,
+    "cup_holder": true,
+    "harness": "5-point",
+    "jpma": null,
+    "warranty": null
+   },
+   "specs_extra": {
+    "Layout": "Side by side",
+    "Trays": "Parent tray (2 cups + covered storage) and child tray"
+   },
+   "spec_sources": "Amazon listing (title, bullets and spec table), checked Oct 12 2026. The spec table mentions a hand brake that the bullets don't, so we leave it blank.",
+   "data_note": null,
+   "review_note": null,
+   "scores": {
+    "portability": 2,
+    "ride": 7,
+    "comfort": 6,
+    "storage": 7,
+    "safety": 6,
+    "build": 6,
+    "value": 10
+   },
+   "editorial": {
+    "tagline": "A double jogger under $200 with 6,500+ ratings.",
+    "summary": "Two seats side by side on big bicycle tires with a locking front wheel — the budget way to walk, hike or jog with two kids.",
+    "body": [
+     "The Expedition Double takes the formula of Baby Trend's best-selling single jogger and doubles it: 16 in rear bicycle tires, a lockable front swivel wheel, two reclining seats with 5-point harnesses, and a parent tray with cup holders and covered storage.",
+     "It's wide and heavy (32.2 lb), the handlebar doesn't adjust, and there's no suspension. There's no infant car seat option, so it's for babies who can sit up.",
+     "With 6,500+ ratings, families say it does most of what a double BOB does for a fraction of the price; one has used it since 2021 for theme parks."
+    ],
+    "pros": [
+     "Under $200 for a double jogger",
+     "16 in bicycle tires",
+     "Two reclining seats to 50 lb",
+     "6.5K ratings"
+    ],
+    "cons": [
+     "32.2 lb and wide",
+     "No suspension",
+     "Fixed handlebar",
+     "No car seat option"
+    ],
+    "ideal_for": "Walking, hiking and casual jogging with two kids on a budget.",
+    "not_for": "Newborns, narrow doorways or tall parents.",
+    "verdict": "The best budget double jogger.",
+    "review_summary": "4.5★ from 6,553 ratings (89% four or five stars). Owners praise the value, sturdiness and storage; the size and weight are the main trade-offs.",
+    "reviews": [
+     {
+      "author": "Phillip Scullion",
+      "stars": 5,
+      "date": "2026-06-28",
+      "title": null,
+      "excerpt": "A family that walks, hikes and runs chose it over a double BOB they'd only use a few years.",
+      "paraphrase": true
+     },
+     {
+      "author": "McKaela Ryan",
+      "stars": 5,
+      "date": "2025-11-21",
+      "title": null,
+      "excerpt": "Used daily for walking paths and jogging with a two- and four-year-old.",
+      "paraphrase": true
+     },
+     {
+      "author": "Jen",
+      "stars": 5,
+      "date": "2025-08-01",
+      "title": null,
+      "excerpt": "Bought for Universal Studios in 2021 and still a lifesaver four years later.",
+      "paraphrase": true
+     }
+    ]
+   }
   }
  ]
 }

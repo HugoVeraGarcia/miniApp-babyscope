@@ -63,6 +63,22 @@
    "bottom_line": "The BOB's suspension and air tires are worth it for regular runners and trails. For casual runs and walks on paths, the Expedition delivers most of the experience for a fraction of the price.",
    "choose_a": "You run several times a week or on rough trails.",
    "choose_b": "You jog casually and want to spend under $200."
+  },
+  {
+   "a": "graco-ready2grow-lx-2",
+   "b": "jeep-destination-double",
+   "intro": "Tandem versus side-by-side: the two best-selling affordable doubles on Amazon.",
+   "bottom_line": "The Ready2Grow fits through any door, takes Graco car seats and adds a bench and standing platform for a preschooler. The Jeep is lighter and gives both kids the same view, but it's for toddlers only.",
+   "choose_a": "You have a newborn plus an older child, or twins with Graco car seats.",
+   "choose_b": "You have two toddlers and want the lighter, cheaper stroller."
+  },
+  {
+   "a": "city-mini-gt2-double",
+   "b": "baby-trend-expedition-double",
+   "intro": "Premium all-terrain side-by-side versus the budget double jogger.",
+   "bottom_line": "The City Mini GT2 Double folds flat, reclines near-flat for naps and takes infant car seats. The Expedition Double costs a fraction and can jog, but it's bulky and only for kids who sit up.",
+   "choose_a": "You need newborn compatibility and an easy fold.",
+   "choose_b": "You want to walk trails or jog with two kids on a budget."
   }
  ]
 }
